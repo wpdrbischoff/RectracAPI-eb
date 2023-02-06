@@ -1,0 +1,1 @@
+DBURL = 'mongodb+srv://user:password@server.mongodb.net/?retryWrites=true&w=majority'
